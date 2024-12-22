@@ -9,6 +9,7 @@ Related field: Bayesian Analysis, Medical Data, R
 2. Applied Bayesian shrinkage priors for feature selection, showcasing expertise in penalized regression methods that reduce overfitting while maintaining model interpretability.
 3. Incorporated time trend analyses to visualize longitudinal symptom progression, using visualizations to illustrate typical patient symptom patterns.
 4. Evaluated and compared models using comprehensive metrics, ensuring robust validation and improving real-world applicability of probabilistic methods
+   
  [report and code](https://github.com/ClaireYeTian/Project#:~:text=6%20Commits-,Bayesian%20Analysis,-Add%20files%20via)
 
 # Comparative Analysis of Machine Learning Methods for COVID-19 Chest X-ray Classification
