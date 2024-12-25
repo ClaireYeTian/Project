@@ -20,6 +20,11 @@ Related field: Machine learning, Medical Data, Python
 3. Conducted rigorous performance evaluation using metrics such as accuracy, precision, recall, and F1-score, ensuring robust model comparison and validation.
 4. Analyzed model behavior to assess computational efficiency and accuracy trade-offs, directly relevant to balancing efficiency in mathematical modeling and machine learning.
 
+It's an ongoing project, further exploration including Vision Transformers (ViT) is not included.
+
+ [report and code](https://github.com/ClaireYeTian/Project/tree/main/Machine%20Learning)
+
+
 # Structural Equation Modeling for Quality of Life Analysis
 Related field: Structural Equation Model, CFA, R
 1. Conducted Confirmatory Factor Analysis (CFA) and built Structural Equation Models (SEM) to explore relationships between quality of life, health, and environmental factors, demonstrating expertise in advanced statistical modeling.
