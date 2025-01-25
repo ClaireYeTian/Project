@@ -10,7 +10,7 @@ Related field: Bayesian Analysis, Medical Data, R
 3. Incorporated time trend analyses to visualize longitudinal symptom progression, using visualizations to illustrate typical patient symptom patterns.
 4. Evaluated and compared models using comprehensive metrics, ensuring robust validation and improving real-world applicability of probabilistic methods
    
- [code](https://github.com/ClaireYeTian/Project/tree/main/Bayesian%20Analysis)
+ [detailed code](https://github.com/ClaireYeTian/Project/tree/main/Bayesian%20Analysis)
 
 # Comparative Analysis of Machine Learning Methods for COVID-19 Chest X-ray Classification
 Related field: Machine learning, Medical Data, Python
@@ -22,7 +22,7 @@ Related field: Machine learning, Medical Data, Python
 
 It's an ongoing project, further exploration including Vision Transformers (ViT) is not included.
 
- [report and code](https://github.com/ClaireYeTian/Project/tree/main/Machine%20Learning)
+ [detailed code](https://github.com/ClaireYeTian/Project/tree/main/Machine%20Learning)
 
 
 # Structural Equation Modeling for Quality of Life Analysis
